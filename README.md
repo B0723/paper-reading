@@ -7,6 +7,9 @@
 ### next reading
 
 ### 2023/12/27
+|    Speakers    | Papers                                                       |                   Slides                   | Others |
+| :------------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
+| Yixin Bu | [ICR Probe: Tracking Hidden State Dynamics for Reliable Hallucination Detection in LLMs](https://arxiv.org/pdf/2507.16488) | [[slides]](./slides/20251121_yxbu.pptx) |   -    |
 
 |    Speakers    | Papers                                                       |                   Slides                   | Others |
 | :------------: | :----------------------------------------------------------- | :----------------------------------------: | :----: |
@@ -347,3 +350,4 @@
 |:----:|:----|:----:|:-----:|
 |Zhaoyang Han|USENIX 2020 [TEXTSHIELD: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation](https://www.usenix.org/conference/usenixsecurity20/presentation/li-jinfeng)|[[slides]](./slides/20210728_ZhaoyangHan.pdf)|-|
 |-|NDSS 2019 [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271) |-|-|
+
